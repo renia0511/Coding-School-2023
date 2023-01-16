@@ -36,7 +36,8 @@ namespace Session_06
 
     }
     //methods
-    public void 
+    public void University: Institute
+        
 
        
      

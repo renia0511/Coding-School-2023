@@ -10,7 +10,7 @@ namespace Session_06
     {
         public Guid ID {get; set;}
         public string Name { get; set;}
-        public int YearsInService { get; set;}
+        public int  YearsInService { get; set;}
 
         public  Institute()
         {
