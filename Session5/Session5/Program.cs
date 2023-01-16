@@ -7,10 +7,10 @@ reversedname.Reversestring();
 
 
 
-//Exe2 sumproduct = new Exe2();
-//int s=sumproduct.sumproduct();
-//Console.WriteLine(s);
-//Console.ReadLine();
+Exe2 sumproduct = new Exe2();
+int s=sumproduct.sumproduct();
+Console.WriteLine(s);
+Console.ReadLine();
 
 Ex4 mularrays = new Ex4();
 mularrays.mularrays();
